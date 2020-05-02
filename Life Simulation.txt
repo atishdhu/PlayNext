@@ -1,0 +1,10 @@
+Title	Steam Rating	Trailer Link	Price
+Planet Zoo	Very Positive	https://www.youtube.com/watch?v=TAvzq-HrSoQ	$44.99 
+Train Simulator 2020	Mixed	https://www.youtube.com/watch?v=iy45J7CYOVY	$29.99 
+ROMANCE OF THE THREE KINGDOM	Mixed	https://www.youtube.com/watch?v=xOQqHagADz4	$59.99 
+Euro Truck Simulator 2	Overwhelmingly Positive	https://www.youtube.com/watch?v=xlTuC18xVII	$19.99 
+Drug Dealer Simulator	Very Positive	https://www.youtube.com/watch?v=iibxHlKZnXY	$19.99 
+Yu-Gi-Oh! Legacy of the Duelist	Mostly Positive	https://www.youtube.com/watch?v=auAQ_A--c5I	$39.99 
+PC Building Simulator	Very Positive	https://www.youtube.com/watch?v=rq9IAJ7YulQ	$19.99 
+X-Plane 11	Very Positive	https://www.youtube.com/watch?v=Ov0Sm9GDha4	$59.99 
+The Sims 3	Very Positive	https://www.youtube.com/watch?v=p7BAUNzJvts	$19.99 

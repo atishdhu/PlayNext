@@ -1,0 +1,10 @@
+Title	Steam Rating	Trailer Link	Price
+Bloodstained: Ritual of the Night	Overwhelmingly Positive	https://www.youtube.com/watch?v=N6ofXOMrUQE	$39.99 
+Ori and the Will of the Wisps	Very Positive	https://www.youtube.com/watch?v=2reK8k8nwBc	$29.99 
+Hollow Knight	Overwhelmingly Positive	https://www.youtube.com/watch?v=UAO2urG23S4	$14.99 
+Ori and the Blind Forest	Overwhelmingly Positive	https://www.youtube.com/watch?v=cklw-Yu3moE	$19.99 
+Dead Cells	Overwhelmingly Positive	https://www.youtube.com/watch?v=RvGaSPTcTxc	$24.99 
+Guacamelee! Super Turbo Champion	Very Positive	https://www.youtube.com/watch?v=CGqW-lj8iaM	$14.99 
+Blasphemous	Very Positive	https://www.youtube.com/watch?v=T3SxYMu5qGY	$24.99 
+Axiom Verge	Very Positive	https://www.youtube.com/watch?v=AVX8RjtJ7YQ	$19.99 
+Valdis Story: Abyssal City	Very Positive	https://www.youtube.com/watch?v=cQ0KajJSGfs	$14.99 

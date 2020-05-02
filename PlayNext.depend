@@ -1,0 +1,97 @@
+# depslib dependency file v1.0
+1588228720 source:c:\users\user\desktop\gamerecommendation\gamerecommendation\main.cpp
+	"Exit.h"
+	"MainMenu.h"
+	"Credits.h"
+	"Choice.h"
+	"Category.h"
+	"SubCategory.h"
+	"ListGames.h"
+	"FileCleanup.h"
+	"MenuButton.h"
+	"Export.h"
+	"Help.h"
+	<iostream>
+
+1588079812 c:\users\user\desktop\gamerecommendation\gamerecommendation\exit.h
+	<iostream>
+
+1587817287 c:\users\user\desktop\gamerecommendation\gamerecommendation\start.h
+
+1588071620 c:\users\user\desktop\gamerecommendation\gamerecommendation\mainmenu.h
+	<windows.h>
+
+1587720614 c:\users\user\desktop\gamerecommendation\gamerecommendation\restart.h
+	"MainMenu.h"
+	<cstdlib>
+
+1588238510 c:\users\user\desktop\gamerecommendation\gamerecommendation\credits.h
+
+1588228749 c:\users\user\desktop\gamerecommendation\gamerecommendation\choice.h
+
+1588228191 c:\users\user\desktop\gamerecommendation\gamerecommendation\category.h
+	<fstream>
+	<cstring>
+
+1588249421 c:\users\user\desktop\gamerecommendation\gamerecommendation\subcategory.h
+
+1588301633 c:\users\user\desktop\gamerecommendation\gamerecommendation\listgames.h
+	<fstream>
+
+1588051394 c:\users\user\desktop\gamerecommendation\gamerecommendation\filecleanup.h
+	<cstdio>
+	<fstream>
+	<cstring>
+
+1588238750 c:\users\user\desktop\gamerecommendation\gamerecommendation\menubutton.h
+	<windows.h>
+
+1588225842 c:\users\user\desktop\gamerecommendation\gamerecommendation\export.h
+
+1588238386 c:\users\user\desktop\gamerecommendation\gamerecommendation\help.h
+
+1588228720 source:c:\users\user\documents\university\notes & exercises\juniors year 1\sis 1040y - software design fundamentals and programming\assignment\assignment_2\2.submit\playnext\main.cpp
+	"Exit.h"
+	"MainMenu.h"
+	"Credits.h"
+	"Choice.h"
+	"Category.h"
+	"SubCategory.h"
+	"ListGames.h"
+	"FileCleanup.h"
+	"MenuButton.h"
+	"Export.h"
+	"Help.h"
+	<iostream>
+
+1588079812 c:\users\user\documents\university\notes & exercises\juniors year 1\sis 1040y - software design fundamentals and programming\assignment\assignment_2\2.submit\playnext\exit.h
+	<iostream>
+
+1588071620 c:\users\user\documents\university\notes & exercises\juniors year 1\sis 1040y - software design fundamentals and programming\assignment\assignment_2\2.submit\playnext\mainmenu.h
+	<windows.h>
+
+1588238510 c:\users\user\documents\university\notes & exercises\juniors year 1\sis 1040y - software design fundamentals and programming\assignment\assignment_2\2.submit\playnext\credits.h
+
+1588228749 c:\users\user\documents\university\notes & exercises\juniors year 1\sis 1040y - software design fundamentals and programming\assignment\assignment_2\2.submit\playnext\choice.h
+
+1588228191 c:\users\user\documents\university\notes & exercises\juniors year 1\sis 1040y - software design fundamentals and programming\assignment\assignment_2\2.submit\playnext\category.h
+	<fstream>
+	<cstring>
+
+1588249421 c:\users\user\documents\university\notes & exercises\juniors year 1\sis 1040y - software design fundamentals and programming\assignment\assignment_2\2.submit\playnext\subcategory.h
+
+1588301633 c:\users\user\documents\university\notes & exercises\juniors year 1\sis 1040y - software design fundamentals and programming\assignment\assignment_2\2.submit\playnext\listgames.h
+	<fstream>
+
+1588051394 c:\users\user\documents\university\notes & exercises\juniors year 1\sis 1040y - software design fundamentals and programming\assignment\assignment_2\2.submit\playnext\filecleanup.h
+	<cstdio>
+	<fstream>
+	<cstring>
+
+1588238750 c:\users\user\documents\university\notes & exercises\juniors year 1\sis 1040y - software design fundamentals and programming\assignment\assignment_2\2.submit\playnext\menubutton.h
+	<windows.h>
+
+1588225842 c:\users\user\documents\university\notes & exercises\juniors year 1\sis 1040y - software design fundamentals and programming\assignment\assignment_2\2.submit\playnext\export.h
+
+1588238386 c:\users\user\documents\university\notes & exercises\juniors year 1\sis 1040y - software design fundamentals and programming\assignment\assignment_2\2.submit\playnext\help.h
+

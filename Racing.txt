@@ -1,0 +1,10 @@
+Title	Steam Rating	Trailer Link	Price
+Assetto Corsa	Very Positive	https://www.youtube.com/watch?v=TDFN-E30jhU	$19.99 
+DiRT Rally 2.0	Mostly Positive	https://www.youtube.com/watch?v=RQ7JvIncd4Y	$39.99 
+The Crew 2	Mostly Positive	https://www.youtube.com/watch?v=MXN1nmL-DQU	$49.99 
+Project CARS 2	Mostly Positive	https://www.youtube.com/watch?v=z1OjVNZdRwU	$59.99 
+RaceRoom Racing Experience	Mixed	https://www.youtube.com/watch?v=XmjFwLhykiQ	Free to Play
+F1 2019	Very Positive	https://www.youtube.com/watch?v=iz7AMaJarQ8	$59.99 
+NASCAR Heat 4	Very Positive	https://www.youtube.com/watch?v=u3CmJhgBnPE	$29.99 
+iRacing	Very Positive	https://www.youtube.com/watch?v=s7oCH0fbM-U	$9.99 
+RIDE 3	Very Positive	https://www.youtube.com/watch?v=LVKULxSo9VY	$14.99 

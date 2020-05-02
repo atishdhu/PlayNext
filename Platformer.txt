@@ -1,0 +1,11 @@
+Title	Steam Rating	Trailer Link	Price	Date of Release
+Ori and the Will of the Wisps	Very Positive	https://www.youtube.com/watch?v=2reK8k8nwBc	$29.99	"12 Sep, 2016"
+Ori and the Blind Forest	Overwhelmingly Positive	https://www.youtube.com/watch?v=cklw-Yu3moE	$19.99	"15 Dec, 2015"
+Hollow Knight	Overwhelmingly Positive	https://www.youtube.com/watch?v=UAO2urG23S4	$14.99	"11 Apr, 2017"
+Rayman Legends	Very Positive	https://www.youtube.com/watch?v=yMIKs1PKrEM	$29.99	"12 Nov, 2016"
+Katana ZERO	Overwhelmingly Positive	https://www.youtube.com/watch?v=-GcJC0N07Nk	$14.99	"17 Mar, 2014"
+Castle of Illusion	Positive	https://www.youtube.com/watch?v=K-rfsYYLmgs	$14.99	"18 Jan, 2020"
+Cuphead	Overwhelmingly Positive	https://www.youtube.com/watch?v=NN-9SQXoi50	$19.99	"15 Mar, 2014"
+Celeste	Overwhelmingly Positive	https://www.youtube.com/watch?v=70d9irlxiB4	$19.99	"15 Jul, 2015 "
+Shovel Knight: Treasure Trove	Overwhelmingly Positive	https://www.youtube.com/watch?v=bhG02JG7Sns	$39.99	"19 Dec, 2012"
+Destiny 2	Very Positive	https://www.youtube.com/watch?v=hdWkpbPTpmE	Free To Play	"14 Feb, 2020"

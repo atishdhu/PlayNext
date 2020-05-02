@@ -1,0 +1,10 @@
+Title	Steam Rating	Trailer Link	Price
+Northgard	Very Positive	https://www.youtube.com/watch?v=mDN8PHOYnKc	$29.99 
+Age of Empires III	Very Positive	https://www.youtube.com/watch?v=SSempPDd3ck	$39.99 
+Age of Empires II: Definitive Edition	Very Positive	https://www.youtube.com/watch?v=ZOgBVR21pWg	$19.99 
+Age of Empires II (2013)	Overwhelmingly Positive	https://www.youtube.com/watch?v=QGAh6IwahqE	$19.99 
+Circle Empires Rivals	Very Positive	https://www.youtube.com/watch?v=p7viEqFCFoY	$14.99 
+"Warhammer 40,000"	Overwhelmingly Positive	https://www.youtube.com/watch?v=CASZ9YcNZ2A	$12.99 
+Ancestors Legacy	Very Positive	https://www.youtube.com/watch?v=orHQfn6wKSw	$34.99 
+Minion Masters	Very Positive	https://www.youtube.com/watch?v=XX3fliJL9CY	Free To Play
+Company of Heroes 2	Very Positive	https://www.youtube.com/watch?v=B5j0cBqhm3A	$19.99 

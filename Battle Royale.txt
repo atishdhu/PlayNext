@@ -1,0 +1,10 @@
+Title	Steam Rating	Trailer Link	Price
+PLAYERUNKNOWN'S BATTLEGROUND	Mixed	https://www.youtube.com/watch?v=ODWCbu_cuqk	$14.99 
+Realm Royale	Mostly Positive	https://www.youtube.com/watch?v=2k5-7jqhMOI	Free To Play 
+Cuisine Royale	Very Positive	https://www.youtube.com/watch?v=2maolWQTlT8	Free To Play 
+Darwin Project	Very Positive	https://www.youtube.com/watch?v=G6aIS4NUif4	Free To Play 
+Ring of Elysium	Mostly Positive	https://www.youtube.com/watch?v=XMwBox8FITU	Free To Play 
+Super Animal Royale	Overwhelmingly Positive	https://www.youtube.com/watch?v=7skh--5DyzM	$12.99 
+Rules Of Survival	Mixed	https://www.youtube.com/watch?v=SSffVFZ8XkA	$2.99 
+Battlerite Royale	Mixed	https://www.youtube.com/watch?v=wOQHL9bntrI	Free To Play 
+Last Tide	Mixed	https://www.youtube.com/watch?v=zLM0B5KLxJM	$24.99 

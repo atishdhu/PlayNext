@@ -1,0 +1,10 @@
+Title	Steam Rating	Trailer Link	Price
+FINAL FANTASY XIV Online	Very Positive	https://www.youtube.com/watch?v=4tyuIh12_HU	$19.99 
+The Elder Scrolls Online	Very Positive	https://www.youtube.com/watch?v=edSI2F-PTuE	$19.99 
+Tree of Savior (English Ver.)	Mixed	https://www.youtube.com/watch?v=Qiaw_LrVSqY	Free to Play 
+Albion Online	Mostly Positive	https://www.youtube.com/watch?v=eBU_Fxd0Jf4	Free to Play 
+Neverwinter	Mostly Positive	https://www.youtube.com/watch?v=e6z3CrnUwuI	Free to Play 
+Destiny 2	Very Positive	https://www.youtube.com/watch?v=hdWkpbPTpmE	Free to Play 
+Black Desert	Mixed	https://www.youtube.com/watch?v=3QMwEINeKY8	$3.59 
+Knight Online	Mixed	https://www.youtube.com/watch?v=CfgRcYNUXCI	Free to Play 
+Star Trek Online	Mostly Positive	https://www.youtube.com/watch?v=79YrRMwgcfA	Free to Play 

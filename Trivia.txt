@@ -1,0 +1,10 @@
+Title	Steam Rating	Trailer Link	Price
+The Jackbox Party Pack 6	Overwhelmingly Positive	https://www.youtube.com/watch?v=1W6cr9GnaRc	$29.99 
+The Jackbox Party Pack 3	Overwhelmingly Positive	https://www.youtube.com/watch?v=B_ULE7TezoE	$24.99 
+The Jackbox Party Pack 4	Very Positive	https://www.youtube.com/watch?v=lRh52wCMe4A	$24.99 
+The Jackbox Party Pack	Very Positive	https://www.youtube.com/watch?v=miLYKDHPfnU	$24.99 
+The Jackbox Party Pack 2	Overwhelmingly Positive	https://www.youtube.com/watch?v=VMc5NVeuSvs	$24.99 
+The Jackbox Party Pack 5	Very Positive	https://www.youtube.com/watch?v=uuPY0_8CO6o	$29.99 
+YOU DON'T KNOW JACK Vol. 2	Positive	https://www.youtube.com/watch?v=Oen25S7ptA8	$2.99 
+It's Quiz Time	Mostly Positive	https://www.youtube.com/watch?v=WtPspz-vrN4	$19.99 
+Trivia Throwdown	Mixed	https://www.youtube.com/watch?v=gkOqDXiNoJs	$4.99 

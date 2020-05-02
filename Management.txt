@@ -1,0 +1,10 @@
+Title	Steam Rating	Trailer Link	Price
+Planet Zoo	Very Positive	https://www.youtube.com/watch?v=TAvzq-HrSoQ	$44.99 
+Football Manager 2020	Very Positive	https://www.youtube.com/watch?v=FhZnNPHTzX8	$49.99 
+Planet Coaster	Very Positive	https://www.youtube.com/watch?v=91Kli1Uwk9g	$44.99 
+Two Point Hospital	Very Positive	https://www.youtube.com/watch?v=SjrcU1gwkjc	$34.99 
+Jurassic World Evolution	Very Positive	https://www.youtube.com/watch?v=1d0KE-nSlO8	$44.99 
+Cities: Skylines	Very Positive	https://www.youtube.com/watch?v=CpWe03NhXKs	$29.99 
+RimWorld	Overwhelmingly Positive	https://www.youtube.com/watch?v=3tDrxOASUog	$34.99 
+Good Company	Mostly Positive	https://www.youtube.com/watch?v=kuBzQyyZsqM	$24.99 
+Prison Architect	Very Positive	https://www.youtube.com/watch?v=JGagqxloRZU	$29.99 

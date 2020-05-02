@@ -1,0 +1,10 @@
+Title	Steam Rating	Trailer Link	Price
+STAR WARS Jedi: Fallen Order	Very Positive	https://www.youtube.com/watch?v=xIl2z5wwjdA	$59.99 
+The Room VR: A Dark Matter	Very Positive	https://www.youtube.com/watch?v=iySB6jnYwYE	$29.99 
+ARK: Genesis Season Pass	Mixed	https://www.youtube.com/watch?v=UPt1zVFbYas	$34.99 
+Shadow of the Tomb Raider	Very Positive	https://www.youtube.com/watch?v=XYtyeqVQnRI	$59.36 
+Biped	Very Positive	https://www.youtube.com/watch?v=sMSK-AoOsGg	$14.99 
+Gears 5	Mixed	https://www.youtube.com/watch?v=SEpWlFfpEkU	$59.99 
+Temtem	Very Positive	https://www.youtube.com/watch?v=Csx5aK5mZCI	$34.99 
+Exit the Gungeon	Mostly Positive	https://www.youtube.com/watch?v=PgJaqr2CTdc	$9.99 
+Red Dead Redemption 2	Mostly Positive	https://www.youtube.com/watch?v=eaW0tYpxyp0	$59.99 

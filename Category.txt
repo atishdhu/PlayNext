@@ -1,0 +1,6 @@
+A	Action	Action-Adventure	Adventure
+I	Idle
+P	Puzzle
+R	Role-Playing
+S	Simulation	Sports	Strategy
+*

@@ -1,0 +1,10 @@
+Title	Steam Rating	Trailer Link	Price
+Dead by Daylight	Very Positive	https://www.youtube.com/watch?v=D3Xw4rIZ5oc	$19.99 
+Pacify	Very Positive	https://www.youtube.com/watch?v=eWKnspXt9JI	$4.99 
+Outlast	Overwhelmingly Positive	https://www.youtube.com/watch?v=uKA-IA4locM	$19.99 
+Alien: Isolation	Very Positive	https://www.youtube.com/watch?v=7h0cgmvIrZw	$2.00 
+RESIDENT EVIL 2 / BIOHAZARD RE:2	Overwhelmingly Positive	https://www.youtube.com/watch?v=u3wS-Q2KBpk	$39.99 
+Amnesia: The Dark Descent	Overwhelmingly Positive	https://www.youtube.com/watch?v=u1nY_5-UrY4	$19.99 
+RESIDENT EVIL 3	Mostly Positive	https://www.youtube.com/watch?v=9LrLM4Hvr9U	$59.99 
+GTFO	Very Positive	https://www.youtube.com/watch?v=-vSYJckIfi8	$34.99 
+F.E.A.R. 2: Project Origin	Very Positive	https://www.youtube.com/watch?v=8oTHcRe1ToU	$14.99 

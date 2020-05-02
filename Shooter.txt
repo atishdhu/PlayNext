@@ -1,0 +1,10 @@
+Title	Steam Rating	Trailer Link	Price
+Counter-Strike: Source	Overwhelmingly Positive	https://www.youtube.com/watch?v=bvI62FUDpKA	$9.99
+PLAYERUNKNOWN'S BATTLEGROUND	Mixed	https://www.youtube.com/watch?v=ODWCbu_cuqk	$14.99
+Counter-Strike: Global Offensive	Very Positive	https://www.youtube.com/watch?v=edYCtaNueQY	Free to Play 
+Tom Clancy's Rainbow Six Siege	Very Positive	https://www.youtube.com/watch?v=KlbLLRdg9u8	$19.99
+Borderlands 2	Overwhelmingly Positive	https://www.youtube.com/watch?v=kKVf5feSMEg	$4.99
+Arma 3	Very Positive	https://www.youtube.com/watch?v=Jioo5uXoNLg	$29.99
+Borderlands 3	Very Positive	https://www.youtube.com/watch?v=d9Gu1PspA3Y	$29.99
+Call of Duty: Black Ops III	Mostly Positive	https://www.youtube.com/watch?v=qAUYNIDEJ6o	$59.99
+Destiny 2	Very Positive	https://www.youtube.com/watch?v=hdWkpbPTpmE	Free To Play

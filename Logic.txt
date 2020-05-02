@@ -1,0 +1,10 @@
+Title	Steam Rating	Trailer Link	Price
+Baba Is You	Overwhelmingly Positive	https://www.youtube.com/watch?v=z3_yA4HTJfs	$14.99 
+SHENZHEN I/O	Overwhelmingly Positive	https://www.youtube.com/watch?v=uUZb66Mz6u4	$14.99 
+Opus Magnum	Overwhelmingly Positive	https://www.youtube.com/watch?v=Uj689znjxpg	$19.99 
+Mechanica	Very Positive	https://www.youtube.com/watch?v=yItsQPJtG38	$19.99 
+Gladiabots	Very Positive	https://www.youtube.com/watch?v=bDm5s57hf6w	$14.99 
+SpaceChem	Overwhelmingly Positive	https://www.youtube.com/watch?v=Gk8JwvtVs38	$9.99 
+Clue/Cluedo: The Classic Mystery Game	Very Positive	https://www.youtube.com/watch?v=nZ6WT9GArh8	$11.99 
+EXAPUNKS	Overwhelmingly Positive	https://www.youtube.com/watch?v=_bk0H3bUZS0	$19.99 
+The Pedestrian	Overwhelmingly Positive	https://www.youtube.com/watch?v=dLzHwweCn_8	$19.99 

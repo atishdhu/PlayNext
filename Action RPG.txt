@@ -1,0 +1,10 @@
+Title	Steam Rating	Trailer Link	Price
+Grim Dawn	Very Positive	https://www.youtube.com/watch?v=BfABNZqU-PA	$24.99 
+Wolcen: Lords of Mayhem	Mixed	https://www.youtube.com/watch?v=mreqjgIJVxA	$39.99 
+Path of Exile	Very Positive	https://www.youtube.com/watch?v=brZT-Qdg8TY	Free to Play
+"Warhammer 40,000: Inquisitor"	Mostly Positive	https://www.youtube.com/watch?v=Lyk7csqDvCE	$49.99 
+DARK SOULS III	Very Positive	https://www.youtube.com/watch?v=cWBwFhUv1-8	$59.99 
+MONSTER HUNTER: WORLD	Very Positive	https://www.youtube.com/watch?v=Ro6r15wzp2o	$29.99 
+Torchlight II	Very Positive	https://www.youtube.com/watch?v=HH_sGQRSpzo	$19.99 
+Trials of Mana	Very Positive	https://www.youtube.com/watch?v=N09PAEkNSP8	$49.99 
+Gujian3	Very Positive	https://www.youtube.com/watch?v=g3wiPGzF8_0	$29.99 

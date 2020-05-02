@@ -1,0 +1,10 @@
+Title	Steam Rating	Trailer Link	Price
+The Binding of Isaac: Rebirth	Overwhelmingly Positive	https://www.youtube.com/watch?v=27Le3kOOFQk	$14.99 
+Tales of Maj'Eyal	Overwhelmingly Positive	https://www.youtube.com/watch?v=5nMIPHuI8J4	$6.99 
+Enter the Gungeon	Overwhelmingly Positive	https://www.youtube.com/watch?v=Ekp92w8EbJ8	$14.99 
+Stoneshard	Mostly Positive	https://www.youtube.com/watch?v=xwPAr4V3oK0	$14.99 
+Slay the Spire	Overwhelmingly Positive	https://www.youtube.com/watch?v=9SZUtyYSOjQ	$24.99 
+Darkest Dungeon	Very Positive	https://www.youtube.com/watch?v=AQLxdHfMPF8	$24.99 
+Risk of Rain 2	Overwhelmingly Positive	https://www.youtube.com/watch?v=pJ-aR--gScM	$19.99 
+Iratus: Lord of the Dead	Very Positive	https://www.youtube.com/watch?v=wS9X0_Q88uY	$16.49 
+Caves of Qud	Overwhelmingly Positive	https://www.youtube.com/watch?v=1ZHUEtjClps	$14.99 

@@ -1,0 +1,10 @@
+Title	Steam Rating	Trailer Link	Price
+Street Fighter V	Mixed	https://www.youtube.com/watch?v=0nFd7Iylj5A	$7.99 
+DEAD OR ALIVE 6	Mixed	https://www.youtube.com/watch?v=_-ZZzvxAwtk	$59.99 
+TEKKEN 7	Very Positive	https://www.youtube.com/watch?v=kKLCwDg2JLA	$39.99 
+Mortal Kombat 11	Mostly Positive	https://www.youtube.com/watch?v=bxFoRCvEjUA	$59.99 
+DRAGON BALL FighterZ	Very Positive	https://www.youtube.com/watch?v=oBI0MU73nlc	$59.99 
+Injustice 2	Very Positive	https://www.youtube.com/watch?v=oDav-JfidL0	$49.99 
+Brawlhalla	Very Positive	https://www.youtube.com/watch?v=fnd71bqiiW0	Free to Play 
+DEAD OR ALIVE 5 Last Round: Core	Mixed	https://www.youtube.com/watch?v=r5QKlcIS2Y8	Free to Play 
+THE KING OF FIGHTERS XIII STEAM VERSION	Very Positive	https://www.youtube.com/watch?v=vAGxK7GnDLI	$19.99 

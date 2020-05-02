@@ -1,0 +1,10 @@
+Action	Platformer	Shooter	Fighting
+Action-Adventure	Horror	Metroidvania
+Adventure	Text Adventures	Graphic Adventures	Visual Novels
+Idle	Casual Gaming	Board
+Puzzle	Logic	Trivia
+Role-Playing	Action RPG	MMORPG	Roguelike
+Simulation	Management	Life Simulation
+Sports	Racing	Team Sports	Competitive
+Strategy	Real-Time Strategy	Battle Royale	Tower Defense
+*

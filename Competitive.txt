@@ -1,0 +1,10 @@
+Title	Steam Rating	Trailer Link	Price
+Rocket League	Very Positive	https://www.youtube.com/watch?v=Vawwy2eu5sA	$19.99 
+Counter-Strike: Global Offensive	Very Positive	https://www.youtube.com/watch?v=edYCtaNueQY	Free to Play 
+Tom Clancy's Rainbow Six Siege	Very Positive	https://www.youtube.com/watch?v=KlbLLRdg9u8	$19.99 
+Street Fighter V	Mixed	https://www.youtube.com/watch?v=0nFd7Iylj5A	$7.99 
+SMITE	Very Positive	https://www.youtube.com/watch?v=khsjzariacQ	Free to Play 
+TEKKEN 7	Very Positive	https://www.youtube.com/watch?v=kKLCwDg2JLA	$39.99 
+Dota 2	Very Positive	https://www.youtube.com/watch?v=-cSFPIwMEq4	Free to Play 
+DRAGON BALL FighterZ	Very Positive	https://www.youtube.com/watch?v=oBI0MU73nlc	$59.99 
+Ultimate Chicken Horse	Overwhelmingly Positive	https://www.youtube.com/watch?v=FYaE_xw4krw	$14.99 
