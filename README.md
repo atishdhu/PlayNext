@@ -28,6 +28,8 @@ Game List
 Export Game List
 <a href="https://drive.google.com/uc?export=view&id=1zGbI2riWDs7bEJvcUu2sFctKnWK9HOVh"><img src="https://drive.google.com/uc?export=view&id=1zGbI2riWDs7bEJvcUu2sFctKnWK9HOVh" style="width: 50px; max-width: 10%; height: 10%" title="Click for the larger version." /></a>
 
+Search Game By Name
+<a href="https://drive.google.com/uc?export=view&id=10ib_ey1GCJtBlWvXxRFtBmeZa-PU6YXE"><img src="https://drive.google.com/uc?export=view&id=10ib_ey1GCJtBlWvXxRFtBmeZa-PU6YXE" style="width: 50px; max-width: 10%; height: 10%" title="Click for the larger version." /></a>
 
 **Abstract**
 
